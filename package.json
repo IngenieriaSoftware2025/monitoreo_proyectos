@@ -26,13 +26,17 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "bootstrap": "^5.2.1",
-    "bootstrap-icons": "^1.9.1",
-    "datatables.net-bs5": "^1.12.1",
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
+    "chart.js": "^4.5.0",
+    "datatables.net-bs5": "^1.13.11",
+    "datatables.net-dt": "^2.3.2",
+    "date-fns": "^4.1.0",
     "fullcalendar": "^5.11.3",
     "jquery": "^3.6.1",
     "leaflet": "^1.9.2",
     "sass": "^1.75.0",
-    "sweetalert2": "^11.4.38"
+    "sweetalert2": "^11.22.3",
+    "validator": "^13.15.15"
   }
 }

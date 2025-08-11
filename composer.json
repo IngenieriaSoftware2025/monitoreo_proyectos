@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "mindef/formularios",
+    "description": "Aplicacion de Monitoreo del progreso de Desarrolladores de Apps",
     "type": "project",
     "config": {
         "platform-check": false
